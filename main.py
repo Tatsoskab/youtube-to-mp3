@@ -7,7 +7,7 @@ import yt_dlp
 #Youtube to video
 def download_video(url):
     ydl_opts = {
-        'outtmpl': 'video.%(ext)s',  # Filename template
+        'outtmpl': 'video.%(ext)s',
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         ydl.download([url])
