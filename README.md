@@ -1,10 +1,10 @@
-This is a Youtube to audio converter,
-Simply paste the URL of the video you want to extract the audio, 
-wait a bit for the video to download and lastly name the audio.
+This is a YouTube to audio converter.
+Simply paste the URL of the video you want to extract the audio from,
+wait a bit for the video to download, and lastly, name the audio.
 
+WARNING: Some URLs may not work with this program.
 
-WARNING: Some URL's may not work on this program 
+Requirements:
 
-
-Requirements: pip install yt-dlp
-              download ffmpeg: https://ffmpeg.org/ and add it to the Path,(doesn"t matter where you save it).
+Install yt-dlp: pip install yt-dlp
+Download ffmpeg from ffmpeg.org and add it to the Path (it doesn't matter where you save it).
