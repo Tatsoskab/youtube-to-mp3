@@ -10,3 +10,6 @@ Download ffmpeg from ffmpeg.org and add it to the Path,
 If the audio you want to get is from a video in a playlist, 
 you will need to click on share and copy the URL form there, 
 otherwise it won't download correctly, (that does not apply for normal videos).
+After the video is downloaded and converted to audio,
+it will be transfeared inside music folder,
+dont delete music folder
