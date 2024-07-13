@@ -12,4 +12,4 @@ you will need to click on share and copy the URL form there,
 otherwise it won't download correctly, (that does not apply for normal videos).
 After the video is downloaded and converted to audio,
 it will be transfeared inside music folder,
-dont delete music folder
+don't delete music folder
